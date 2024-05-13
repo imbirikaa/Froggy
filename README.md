@@ -12,6 +12,9 @@
 - Three game states: Start, Game Over, and Victory
 - Difficulty level: HARD (be warned!)
 
+## Note :
+> The game speed depends on the frame rate of your screen . `Recommended (75HZ-90HZ)`
+
 ## How to Play :
 1. Clone or download the repository.
 2. Open the `index.html` file in your web browser.
