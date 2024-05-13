@@ -471,7 +471,7 @@ playerLeftImage.src = "./img/IdleLeft.png";
 const backgroundImage = new Image();
 backgroundImage.src = "./img/game.png";
 const kiwiImage = new Image();
-kiwiImage.src = "./img/kiwi.png";
+kiwiImage.src = "./img/Kiwi.png";
 const endImage = new Image();
 endImage.src = "./img/end.png";
 
